@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact: 
 I read this psychology paper, so quoting one interesting line from it.
-" In evolutionary terms, if objective evidence of self-awareness can be taken as evidence for consciousness, then consciousness as it occurs in the primate with their more fully developed cortex may have evolved ~5 million years ago."
+" In evolutionary terms, if self-awareness can be taken as evidence for consciousness, then consciousness as it occurs in the primate with their fully developed cortex may have evolved ~5 million years ago."
 
 
 <!--
