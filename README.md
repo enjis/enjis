@@ -4,9 +4,6 @@
 
 
 
-[![enjis's github stats](https://github-readme-stats.vercel.app/api?username=enjis&count_private=true&show_icons=true&theme=radical)](https://github.com/enjis)
-
-
 
 - 🔭 I’m currently working on NLP Research and MLOps processes.
 - 🌱 I’m currently learning to get my hands dirty with Big Data Technologies.
@@ -21,6 +18,8 @@ I read this psychology paper, so quoting one interesting line from it.
 
 <!--
 **enjis/enjis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![enjis's github stats](https://github-readme-stats.vercel.app/api?username=enjis&count_private=true&show_icons=true&theme=radical)](https://github.com/enjis)
 
 Here are some ideas to get you started:
 
