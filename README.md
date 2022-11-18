@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-### I'm Anjali, a passionate self-taught Data Scientist and Engineer from India.
+### I'm Anjali, a passionate Data Scientist and Engineer from India.
 
 
 
