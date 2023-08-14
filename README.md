@@ -1,12 +1,12 @@
 ### Hi there 👋 
 
-### I'm Anjali, a passionate Data Scientist and Engineer from India.
+### I'm Anjali, a passionate Data Scientist and ML Engineer from India.
 
 
 
 
-- 🔭 I’m currently working on NLP Research and MLOps processes.
-- 🌱 I’m currently learning to get my hands dirty with Big Data Technologies.
+- 🔭 I’m currently working on Computer Vision, NLP Research (LLMs) and MLOps processes.
+- 🌱 I’m currently learning to get my hands dirty with ML Technologies.
 - 💬 Call me anytime to discuss AI, stats, Deep Learning etc.
 - 📫 I would love to connect, Reach me out at: singhanjali20@yahoo.com
 
