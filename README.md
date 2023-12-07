@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on Computer Vision, NLP Research (LLMs) and MLOps processes.
-- 🌱 I’m currently get my hands dirty with Reinforcement Learning and more .
+- 🌱 I’m currently getting my hands dirty with Reinforcement Learning and more .
 - 💬 Happy anytime to discuss AI, stats, Deep Learning etc.
 - 📫 I would love to connect, Reach me out at: singhanjali20@yahoo.com
 
